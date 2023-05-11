@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+  <meta property='og:type' content='website'>
+  <meta property='og:title' content='WebデザイナーYU ANAMIのポートフォリオ'>
+  <meta property='og:url' content='URLが入る'>
+  <meta property='og:description' content='TARO YAMADAのポートフォリオサイトです。'>
+  <meta property="og:image" content="img/ogp.png">
+  <meta name="description" content="TARO YAMADAのポートフォリオサイトです" />
+  <title>YU ANAMI ポートフォリオ</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined" rel="stylesheet">
+  <link href="css/ress.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="img/favicon.ico" />
+  <link rel=”canonical” href=”URLが入る” />
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <!-- header -->
+    <header class="header ">
+      <div class="header-inner">
+        <h1 class="header-logo">
+          <a href="index.html">YU’s portforio</a>
+        </h1>
+        <nav class="header-nav">
+          <ul class="header-nav-list">
+            <li class="header-nav-item"><a href="./#works">WORKS</a></li>
+            <li class="header-nav-item"><a href="./#skill">SKILL</a></li>
+            <li class="header-nav-item"><a href="./#contact">CONTACT</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!-- /header -->
+
+    <main class="content">
+
+      <article class="article">
+        <div class="article-inner">
+          <h2 class="article-title">MY GOLF LANE様</h2>
+          <p class="article-img">
+            <img src="img/mygolf.png" alt="">
+          </p>
+          <div class="article-body">
+            <p>
+              MY GOLF LANE様のフランチャイズ募集用のバナーです
+            </p>
+            <h3 class="article-info-title">URL</h3>
+            <p><a href="https://www.fc-mado.com/detail/3423" target="_blank" rel="noopener">https://www.fc-mado.com/detail/3423</a></p>
+            <h3 class="article-info-title">担当</h3>
+            <p>デザイン</p>
+            <h3 class="article-info-title">サイトの目的</h3>
+            <p>サービスの認知と新規フランチャイズオーナーの獲得</p>
+            <h3 class="article-info-title">ターゲット</h3>
+            <p>土地を活用したい、無人で経営したい方</p>
+            <h3 class="article-info-title">デザインについて</h3>
+            <p>
+              クライアントから、ゴルフ感があり、おしゃれにしてほしいとのことだったので文字の背景をゴルフ場ぽく、少ない色でビジネス感を押さえました
+              <br>訴求が多いとまとまりにくくなるので、訴求を重要度別で分け、メリハリをつけ、結果クライアントからも「わかりやすくいいデザイン」と評価をいただきました
+            </p>
+          </div>
+          <div class="home-link">
+            <a href="./#works">Works一覧へ</a>
+          </div>
+        </div>
+      </article>
+
+      <div class="page-top" id="js-page-top">
+        <span class="material-icons-outlined">expand_less</span>
+      </div>
+    </main>
